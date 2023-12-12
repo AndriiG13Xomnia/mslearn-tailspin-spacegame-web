@@ -2,7 +2,7 @@ trigger:
 - main
 
 pool:
-    name: dev-nodepool
+    name: Default
 
 variables:
     buildConfiguration: 'Release'
